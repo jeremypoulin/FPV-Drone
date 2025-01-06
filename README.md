@@ -43,3 +43,8 @@ Technical skills required:
 - Soldering
 - Multimeter interpretation
 - Heatshrinking
+## Screenshots
+
+![App Screenshot](https://url/to/img1.HEIC)
+![App Screenshot](https://url/to/img2.HEIC)
+![App Screenshot](https://url/to/img3.HEIC)
