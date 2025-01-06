@@ -49,4 +49,4 @@ Technical skills required:
 
 ![image2](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img2.HEIC)
 
-![image3](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img3.jpeg)
+![image3](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img3.jpg)
