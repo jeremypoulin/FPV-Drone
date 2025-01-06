@@ -43,3 +43,10 @@ Technical skills required:
 - Soldering
 - Multimeter interpretation
 - Heatshrinking
+## Screenshots
+
+![image1](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img1.HEIC)
+
+![image2](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img2.HEIC)
+
+![image3](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img3.jpg)
