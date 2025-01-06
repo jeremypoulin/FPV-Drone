@@ -50,3 +50,8 @@ Technical skills required:
 ![image2](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img2.jpg)
 
 ![image3](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img3.jpg)
+
+![video1](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/vid1.mp4)
+
+![video2](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/vid2.mp4)
+
