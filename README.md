@@ -45,8 +45,8 @@ Technical skills required:
 - Heatshrinking
 ## Screenshots
 
-![App Screenshot](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img1.HEIC)
+![image1](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img1.HEIC)
 
-![App Screenshot](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img2.HEIC)
+![image2](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img2.HEIC)
 
-![App Screenshot](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img3.jpeg)
+![image3](https://github.com/jeremypoulin/FPV-Drone/blob/main/media/img3.jpeg)
