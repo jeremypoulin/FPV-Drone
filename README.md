@@ -45,6 +45,6 @@ Technical skills required:
 - Heatshrinking
 ## Screenshots
 
-![App Screenshot](https://url/to/img1.HEIC)
-![App Screenshot](https://url/to/img2.HEIC)
-![App Screenshot](https://url/to/img3.HEIC)
+![App Screenshot](https://url/to/media/img1.HEIC)
+![App Screenshot](https://url/to/media/img2.HEIC)
+![App Screenshot](https://url/to/media/img3.HEIC)
