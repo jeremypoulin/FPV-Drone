@@ -9,7 +9,7 @@ Custom design/build of an FPV Drone with the goal of cutting costs (in compariso
 Jeremy Poulin (github.com/jeremypoulin)
 ## Notice of Safety
 
-I am not responsible for any harm or damges that resultr from use of this repositoryu.
+I am not responsible for any harm or damages that result from use of this repository.
 
 Multiple safety elements have been included in this design:
 
